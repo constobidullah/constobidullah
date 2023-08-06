@@ -12,11 +12,7 @@
 - ⚡ Fun fact: I use tabs over spaces  
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=constobidullah&label=Profile%20views&color=0e75b6&style=flat" alt="constobidullah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=constobidullah" alt="constobidullah" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/constobidullah" target="blank"><img src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for-the-badge" alt="constobidullah" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
