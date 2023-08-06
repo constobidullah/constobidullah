@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/108364455?v=4" align="left" height="100vh" width="100%" />  
+<img src="https://avatars.githubusercontent.com/u/108364455?v=4" align="left" height="auto" width="100%" />  
   
 
 # ***<div align="center">I'm Obidullah a full-time Frontend Web developer 👨‍💻</div>***  
