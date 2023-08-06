@@ -1,12 +1,8 @@
+<img src="https://www.facebook.com/photo/?fbid=706794154155506&set=a.102781214556806" align="left" height="auto" width="100%" />  
+
 <h1 align="center">Hi 👋, I'm Obidullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<img src="https://www.facebook.com/photo/?fbid=706794154155506&set=a.102781214556806" align="left" height="auto" width="100%" />  
   
-
-# ***<div align="center">I'm Obidullah a full-time Frontend Web developer 👨‍💻</div>***  
-  
-
 - 🌱 I’m currently learning javaScript framework React  
   
 
