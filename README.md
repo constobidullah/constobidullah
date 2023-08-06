@@ -11,6 +11,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
+<br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=constobidullah&label=Profile%20views&color=0e75b6&style=flat" alt="constobidullah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=constobidullah" alt="constobidullah" /></a> </p>
