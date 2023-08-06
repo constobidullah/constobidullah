@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/108364455?v=4" align="left" height="200" width="100%" />  
+<img src="https://avatars.githubusercontent.com/u/108364455?v=4" align="left" height="50vh" width="100%" />  
   
 
 # ***<div align="center">I'm Obidullah a full-time Frontend Web developer 👨‍💻</div>***  
@@ -10,8 +10,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces 
-
+- ⚡ Fun fact: I use tabs over spaces  
 
 <h1 align="center">Hi 👋, I'm Obidullah</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
