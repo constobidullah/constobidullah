@@ -1,16 +1,60 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Obidullah
+=================================================================================================================================
 
+I'm a Front-end Web developer and Designer
+------------------------------------------
 
-**constobidullah/constobidullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! A passionate front-end web developer based in Bangladesh. I love creating beautiful and user-friendly interfaces that deliver a seamless web experience. With a strong foundation in HTML, CSS, and JavaScript, I enjoy turning ideas into reality through clean and efficient code. 💻 What I Can Do: - PSD to HTML: I have the expertise to convert your beautiful and creative PSD designs into pixel-perfect, responsive HTML/CSS code. Your designs will come to life on the web with precision and accuracy. - Web Design: I'm passionate about crafting visually appealing and user-friendly web designs. From concept to implementation, I focus on creating intuitive interfaces that enhance user experiences and leave a lasting impression. - React Development: I excel in building dynamic and interactive web applications using React. Whether it's creating a new project from scratch or refactoring an existing one, I am adept at harnessing the power of React to deliver efficient and scalable solutions. - Front-End Development: With a strong foundation in HTML, CSS, and JavaScript, I am skilled in front-end web development. I take pride in writing clean and maintainable code, ensuring the best performance and compatibility across devices. - Responsive Web Design: User experience is essential, regardless of the device being used. I design and develop websites that are responsive and work seamlessly on various screen sizes, providing a consistent experience for all users. - Web Performance Optimization: I'm committed to delivering fast-loading and high-performing websites. By employing best practices and optimization techniques, I ensure that the websites I create are efficient and user-friendly. - Open Source Contributions: I believe in the power of open-source and actively contribute to the community. You can find some of my open-source projects and collaborations here on my GitHub. 📫 Let's Connect: I'm always open to exciting projects and collaboration opportunities. If you have any questions, want to work together, or just want to say hi, feel free to reach out to me through \[LinkedIn\](https://www.linkedin.com/in/yourprofile) or \[Twitter\](https://twitter.com/yourhandle). Thank you for visiting my GitHub profile. Let's build amazing things together! 😃 🌱 Constantly Learning: In this ever-evolving tech world, I'm always eager to learn and adapt to new technologies and industry best practices. Staying up-to-date with the latest trends is essential to me. 💻 Open Source Contributions: I believe in the power of open-source and giving back to the community. You can find some of my open-source projects and contributions here. 📫 Let's Connect: I'm open to collaborating on exciting projects and connecting with fellow developers! Feel free to reach out to me through Twitter, Medium, Linkedin, Instagram Thanks for visiting my GitHub profile. Let's build something awesome together! 😃
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+*   🖥️  See my portfolio at [Portfolio Website](http://obidullah.netlify.app)
+*   ✉️  You can contact me at [obidullahbinmasud124@gmail.com](mailto:obidullahbinmasud124@gmail.com)
+*   🧠  I'm learning React
+*   🤝  I'm open to collaborating on Your Project
+*   ⚡  I'm secretly a man, but don't tell anyone<a href="https://www.github.com/constobidullah" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/constobidullah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/constobidullah" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>### Skills 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.behance.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.codepen.io/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.dev.to/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://discord.com/users/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.dribbble.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.facebook.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.stackoverflow.com/users/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/constobidullah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a><a
+                      href="http://www.github.com/constobidullah"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/constobidullah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=constobidullah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constobidullah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/constobidullah/pro8-wallet" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=constobidullah&repo=pro8-wallet&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
