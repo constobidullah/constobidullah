@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Obidullah</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 <img src="https://avatars.githubusercontent.com/u/108364455?v=4" align="left" height="auto" width="100%" />  
   
 
@@ -11,9 +14,6 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces  
-
-<h1 align="center">Hi 👋, I'm Obidullah</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=constobidullah&label=Profile%20views&color=0e75b6&style=flat" alt="constobidullah" /> </p>
 
