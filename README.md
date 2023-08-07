@@ -36,12 +36,12 @@
 
 <h2 align="center">MY GITHUB STARS</h2>
 <p align="center">
-  <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=8f94fb&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
+ <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
 
   </p>
 
 <p align="center">
-<a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=ffffff&background=312e81&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <img src="https://metrics.lecoq.io/constobidullah?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
