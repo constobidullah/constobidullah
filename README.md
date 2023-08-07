@@ -60,7 +60,7 @@
 
 <h2 align="center"> Reach Me Out</h2>  
 
-<div align="center" style="width: 200px">
+<div align="center" style="width= 200px">
   
   <a href="https://codepen.io/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Codepen-constobidullah-green?style=for-the-badge&logo=codepen"></a>
 
@@ -69,7 +69,7 @@
 <a href="https://facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/FaceBook-constobidullah-purple?style=for-the-badge&logo=facebook"></a>
 
 
-<a href="https://twitter.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-constobidullah-blue?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-constobidullah-blue?style=for-the-badge&logo=twitter&bg_color=ffffff"></a>
 
 <a href="https://dev.to/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Dev-constobidullah-blue?style=for-the-badge&logo=dev"></a>
 
