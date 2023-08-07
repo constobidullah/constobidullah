@@ -7,7 +7,7 @@
 <h3 align="center"><u>Some Information</u></h3>
 
 <p align="center">
-   - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
+  <li> - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) </li>
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
 - I’m currently learning JavaScript
