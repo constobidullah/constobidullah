@@ -89,7 +89,7 @@
 
 <a href="https://about.me/constobidullah/" target="_blank"><img src="https://img.shields.io/badge/About-constobidullah-red?style=for-the-badge&logo=about"></a>
 
-<a href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+<a width="200px" href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 </div>
 
 
