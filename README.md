@@ -36,6 +36,7 @@
 
 <p align="center">
   <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=a855f7&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
+  
 <a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 </p>
 
