@@ -40,13 +40,13 @@
 
 
 ## Reach Me Out   
-<a href="https://github.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Github-constobidullah-green?style=for-the-badge&logo=github"></a>
 
-<a href="https://facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/FaceBook-KasRoudra-purple?style=for-the-badge&logo=facebook"></a>
+<a href="https://facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/FaceBook-constobidullah-purple?style=for-the-badge&logo=facebook"></a>
 
-<a href="https://twitter.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-KasRoudra-blue?style=for-the-badge&logo=twitter"></a>
+<a href="https://twitter.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-constobidullah-blue?style=for-the-badge&logo=twitter"></a>
 
-<a href="https://m.me/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-red?style=for-the-badge&logo=facebook"></a>
+<a href="https://m.me/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Messenger-constobidullah-red?style=for-the-badge&logo=facebook"></a>
 
 <a href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 
