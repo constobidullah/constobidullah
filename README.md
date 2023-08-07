@@ -25,9 +25,16 @@
 
 ### Frontend Skill
 <p>
-   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+   <img width="30px" src="https://www.bing.com/images/search?view=detailV2&ccid=VwDiJpSw&id=1CCB2ECE3B547DAACFBC99663D27CB549ED1CE55&thid=OIP.VwDiJpSwzGBP7oQAB15rkAHaEK&mediaurl=https%3a%2f%2fcontent.instructables.com%2fORIG%2fFCB%2fB741%2fGXO0U8MU%2fFCBB741GXO0U8MU.jpg%3fframe%3d1&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5700e22694b0cc604fee8400075e6b90%3frik%3dVc7RnlTLJz1mmQ%26pid%3dImgRaw%26r%3d0&exph=1080&expw=1920&q=html&simid=607998220976082097&FORM=IRPRST&ck=91B2FCEE4619F5E7F195F340BCE6DA0E&selectedIndex=22" /> 
    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
+
+### Librery or Framework 
+<p>
+   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
 
