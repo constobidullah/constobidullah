@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 <img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
 <br> <br>
 
-<img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif">
+<img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100%">
 
 
 <h3 align="center">Skill Set</h3>
