@@ -4,9 +4,8 @@
 <h1 align="center"><u>Hello Visitor🤞, I'm Obidullah. </u></h1>
 <h2 align="center">I'm Frontend Web developer & Designer from Bangladesh</h2>
    
-<h3 align="center"><u>Some Information</u></h3>
+<h3 align="left"><u>Some Information</u></h3>
 
-<p align="center">
 - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
@@ -16,6 +15,5 @@
 - I’m looking to collaborate on Open Source
 - I’m looking for help with html/css/js, Frontend development
 - Ask me about anything
-- How to reach me? No Problem. Email me: obidullahbinmasud124@gmail.com
+- How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am too lazy
-</p>
