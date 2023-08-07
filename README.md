@@ -6,4 +6,4 @@
 
 - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - I'm Still Learning JavaScript Advanced
-- My Hobby:- <span> Coding </span>
+- My Hobby:- <span> Coding </span> <span> Coding </span>
