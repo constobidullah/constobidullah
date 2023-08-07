@@ -1,5 +1,5 @@
 
-<img src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/311458073_105018669080039_7045422326904536685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=4eFJFSAAHlAAX-e4T8x&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfA4h2l-fhhMvNzE9eZ9Ngj28TwJZwUz-XNrLx-kWyzbew&oe=64D56BFA" alt="">
+<img align="center" src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/311458073_105018669080039_7045422326904536685_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=174925&_nc_ohc=4eFJFSAAHlAAX-e4T8x&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfA4h2l-fhhMvNzE9eZ9Ngj28TwJZwUz-XNrLx-kWyzbew&oe=64D56BFA" alt="">
 
 <br/>
 <h1 align="center"><u>Hello Visitor🤞, I'm Obidullah. </u></h1>
