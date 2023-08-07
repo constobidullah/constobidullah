@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<a href="https://github.com/constobidullah/github-stats-card" alt="github-stats-card"><img src="https://constobidullah-stats-card.onrender.com/lang?user=constobidullah&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
 </p>
 
 ## Reach Me Out   
