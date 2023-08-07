@@ -1,5 +1,5 @@
 
-<img src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/337546169_755135629356337_2942759372979671859_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=_GDcLi37SjgAX_63tmI&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfAV58PU8nzmz_3-WSGVQAdUr6FNGVIlZFxZLIRSU3HXjw&oe=64D46108">
+<img src="https://avatars.githubusercontent.com/u/108364455?v=4">
 
 <br/>
 <h1 align="center"><u>Hello Visitor🤞, I'm Obidullah. </u></h1>
