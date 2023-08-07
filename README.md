@@ -1,16 +1,11 @@
-<section style="display: grid; grid-template-columns: 1fr 1fr;">
-        <div>
-            <h1 style="font-size: 2.5rem; text-align: center;">Welcome Dear Visitor 👊, I'm <strong> Obidullah</strong>
-                .</h1>
-            <h2 style="text-align: center; color: rgb(109, 33, 231);">I'm Frontend Web developer & Designer from
-                Bangladesh</h2>
-        </div>
-        <img style="width: 100%; height: auto;"
-            src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/350113198_1265498414355631_4845030143183374506_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=nIThqDIKL2YAX96MKyz&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfCAfXEbrZlgpyTqZMsPZB2b_awuvmriy18w0oKW_pmo_g&oe=64D43ADE"
-            alt="">
-    </section>
+<h1 style="font-size: 2.5rem; text-align: center;">Hello Visitor, I'm Obidullah. How are you?</h1>
+    <h2 style="text-align: center; color: rgb(109, 33, 231);">I'm Frontend Web developer & Designer from Bangladesh</h2>
+    
+<img style="width: 100%; height: 50vh;" src="https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/350113198_1265498414355631_4845030143183374506_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=174925&_nc_ohc=nIThqDIKL2YAX96MKyz&_nc_ht=scontent.fjsr8-1.fna&oh=00_AfCAfXEbrZlgpyTqZMsPZB2b_awuvmriy18w0oKW_pmo_g&oe=64D43ADE" alt="">
 - 🌱 I’m currently learning JavaScript framework React  
-  
+
+
+
 
 - ❓ Ask me about anything related to the MERN stack and related technologies  
   
