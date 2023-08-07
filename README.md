@@ -1,7 +1,7 @@
 
 <img src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg" width="100%">
 
-Hello Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Obidullah
+<h1> Hello Visitor ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Obidullah </h1>
 <h2 align="center">I'm Frontend Web developer & Designer from Bangladesh</h2>
    
 <h3 align="left"><u>Some Information</u></h3>
