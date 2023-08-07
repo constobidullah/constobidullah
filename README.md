@@ -4,7 +4,7 @@
 <h1 align="center"> Hello visitor👊 My name is Obidullah </h1>
 <h2 align="center">I'm Frontend Web developer & Designer from Bangladesh</h2>
 
-
+<br>
 ## Some Information 
   - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
