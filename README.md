@@ -5,8 +5,9 @@
 <h2 align="center">I'm Frontend Web developer & Designer from Bangladesh</h2>
 
 <br>
+
 ## Some Information 
-  - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
+- I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
 - I’m currently learning JavaScript
@@ -15,7 +16,7 @@
 - Ask me about anything on **<a href="https://www.instagram.com/constobidullah"> Instagram</a>**
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am too lazy
-- 
+
 <img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
 <br> <br>
 
