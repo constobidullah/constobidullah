@@ -1,10 +1,10 @@
-<h1 style="font-size: 2.5rem;">Hello Visitor 🤝, I'm Obidullah. How are you?</h1>
-<h2>I'm Frontend Web developer & Designer from Bangladesh</h2>
+<h1 style="font-size: 2.5rem; font-variant: small-caps;">Hello Visitor, I'm Obidullah. How are you?</h1>
+<h2 style="font-variant: small-caps; font-style: oblique;">I'm Frontend Web developer & Designer from Bangladesh</h2>
   
-- 🌱 I’m currently learning javaScript framework React  
+- 🌱 I’m currently learning JavaScript framework React  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
