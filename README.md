@@ -56,20 +56,12 @@
 </p>
 
 
-<div align="center"> 
-  <h3 align="center">Reach Me Out</h3>
-  <a href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-  <a href="https://facebook.com/aburaihan019" target="_blank"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" target="_blank"></a>
-  <a href="https://instagram.com/raihan_1ahmed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:raihanahmed01973@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/aburaihan019" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-<img src='https://svgshare.com/i/tFo.svg' title='' />
 
 <h2 align="center"> Reach Me Out</h2>  
 
 <div align="center">
+  
   <a href="https://codepen.io/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Codepen-constobidullah-green?style=for-the-badge&logo=codepen"></a>
 
 <a href="https://stackoverflow.com/users/19934308/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-constobidullah-red?style=for-the-badge&logo=stackoverflow"></a>
@@ -99,6 +91,9 @@
 
 <a href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
 </div>
+
+
+<img src='https://svgshare.com/i/tFo.svg' title='' />
 
 
 
