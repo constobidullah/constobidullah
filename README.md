@@ -29,7 +29,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constobidullah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left">
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+</p>
 
 ## Reach Me Out   
 <div align="center">
@@ -68,11 +70,6 @@
 </a>  
 </div>
 
-
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="left">
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
-</p>
 
 
 
