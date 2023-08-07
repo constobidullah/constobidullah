@@ -1,7 +1,7 @@
 
 <img src="https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg" width="100%">
 
-<h1> Hello visitor👊 My name is Obidullah </h1>
+<h1 align="center"> Hello visitor👊 My name is Obidullah </h1>
 <h2 align="center">I'm Frontend Web developer & Designer from Bangladesh</h2>
    
 <h3 align="left"><u>Some Information</u></h3>
