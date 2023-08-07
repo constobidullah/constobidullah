@@ -29,6 +29,14 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png">](https://www.linkedin.com/in/afnanferdousi550/)[<img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png">](https://www.facebook.com/afnanferdousi2006/)[<img height="75" src="https://i.ibb.co/BnJqQDY/Twitter.png"> </p>](https://twitter.com/afnan_ferdousi)
+
+<br />
+
 
 
 
