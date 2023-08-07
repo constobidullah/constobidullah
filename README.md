@@ -17,5 +17,7 @@
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am too lazy
 <img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
+<br> <br>
+## Stack 
 
-## stack 
+<img src="https://biz.mxmobiling.co.jp/service/img_work01.png"> 
