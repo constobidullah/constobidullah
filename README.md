@@ -34,7 +34,7 @@
 
 <a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
 
 ## Reach Me Out   
 <div align="center">
