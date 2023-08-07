@@ -1,5 +1,5 @@
 <h1 style="font-size: 2.5rem; text-align: center;">Hello Visitor, I'm Obidullah. How are you?</h1>
-<h2 style="text-align: center; color: red;">I'm Frontend Web developer & Designer from Bangladesh</h2>
+    <h2 style="text-align: center; color: rgb(109, 33, 231);">I'm Frontend Web developer & Designer from Bangladesh</h2>
   
 - 🌱 I’m currently learning JavaScript framework React  
   
