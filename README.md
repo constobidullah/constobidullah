@@ -1,7 +1,5 @@
-<img src="https://www.facebook.com/photo/?fbid=706794154155506&set=a.102781214556806" align="left" height="auto" width="100%" />  
-
 <h1 style="font-size: 2.5rem;">Hello Visitor 🤝, I'm Obidullah. How are you?</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h2>I'm Frontend Web developer & Designer from Bangladesh</h2>
   
 - 🌱 I’m currently learning javaScript framework React  
   
