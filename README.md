@@ -17,6 +17,11 @@
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am too lazy
 
+<a href="https://www.github.com/constobidullah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/constobidullah?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a><a href="https://www.twitter.com/constobidullah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for-the-badge&color=ffffff&labelColor=312e81"
+/></a>
+
 <img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
 <br> <br>
 
