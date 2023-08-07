@@ -1,5 +1,5 @@
 
-<img src="https://avatars.githubusercontent.com/u/108364455?v=4">
+<img src="https://avatars.githubusercontent.com/u/108364455?v=4" width="100%">
 
 <br/>
 <h1 align="center"><u>Hello Visitor🤞, I'm Obidullah. </u></h1>
