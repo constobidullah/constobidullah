@@ -8,4 +8,17 @@
 - I'm Still Learning JavaScript Advanced
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
-- I love Coffee 
+- I love Coffee
+-  I’m currently working on Frontend Development
+
+- I’m currently learning HTML,CSS,JS,React
+
+- I’m looking to collaborate on Open Source
+
+- I’m looking for help with html/css/js, Frondend development
+
+- Ask me about anything
+
+- How to reach me labibkhan66410@gmail.com
+
+- Fun fact I am too lazy
