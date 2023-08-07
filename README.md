@@ -60,7 +60,7 @@
 
 <h2 align="center"> Reach Me Out</h2>  
 
-<div align="center">
+<div align="center" style="width: 200px">
   
   <a href="https://codepen.io/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Codepen-constobidullah-green?style=for-the-badge&logo=codepen"></a>
 
