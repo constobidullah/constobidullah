@@ -6,17 +6,17 @@
    
 <h3 align="center"><u>Some Information</u></h3>
 
-<ul align="center">
-  <li> I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) </li>
-<li>My Hobby:- Coding, Traveling, Listening, Writing, Eating.</li>
-<li>Sometimes, I want to start a Small Business Industry</li>
-<li>I’m currently learning JavaScript</li>
-   <li>I’m looking to collaborate on Open Source</li>
-<li>I’m looking for help with html/css/js, Frontend development</li>
-<li>Ask me about anything on **<a href="https://www.instagram.com/constobidullah"> Instagram</a>**</li>
-<li>How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**</li>
-<li>Fun fact I am too lazy</li>
-</ul>
+## Some Information 
+  - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
+- My Hobby:- Coding, Traveling, Listening, Writing, Eating.
+- Sometimes, I want to start a Small Business Industry
+- I’m currently learning JavaScript
+- I’m looking to collaborate on Open Source
+- I’m looking for help with html/css/js, Frontend development
+- Ask me about anything on **<a href="https://www.instagram.com/constobidullah"> Instagram</a>**
+- How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
+- Fun fact I am too lazy
+- 
 <img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
 <br> <br>
 
