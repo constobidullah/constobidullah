@@ -5,4 +5,5 @@
 <h3 style="text-align: center; font-weight: bold;"><u>Some Information</u></h3>
 
 - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
-- I'm Still Learning JavaScript Advanced 
+- I'm Still Learning JavaScript Advanced
+- My Hobby:- <span> Coding </span>
