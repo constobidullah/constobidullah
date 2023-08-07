@@ -57,13 +57,49 @@
 
 
 <div align="center"> 
-  <h3 align="left">Connect with me:</h3>
+  <h3 align="center">Reach Me Out</h3>
+  <a href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
   <a href="https://facebook.com/aburaihan019" target="_blank"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" target="_blank"></a>
   <a href="https://instagram.com/raihan_1ahmed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:raihanahmed01973@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aburaihan019" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 <img src='https://svgshare.com/i/tFo.svg' title='' />
+
+<h2 align="center"> Reach Me Out</h2>  
+
+<p align="center">
+  <a href="https://codepen.io/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Codepen-constobidullah-green?style=for-the-badge&logo=codepen"></a>
+
+<a href="https://stackoverflow.com/users/19934308/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-constobidullah-red?style=for-the-badge&logo=stackoverflow"></a>
+
+<a href="https://facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/FaceBook-constobidullah-purple?style=for-the-badge&logo=facebook"></a>
+
+
+<a href="https://twitter.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-constobidullah-blue?style=for-the-badge&logo=twitter"></a>
+
+<a href="https://dev.to/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Dev-constobidullah-blue?style=for-the-badge&logo=dev"></a>
+
+<a href="https://www.freecodecamp.org/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-constobidullah-purple?style=for-the-badge&logo=freecodecamp"></a>
+
+<a href="https://www.pinterest.com/constobidullah/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-constobidullah-blue?style=for-the-badge&logo=pinterest"></a>
+
+<a href="https://medium.com/@constobidullah" target="_blank"><img src="https://img.shields.io/badge/Medium-constobidullah-blue?style=for-the-badge&logo=medium"></a>
+
+<a href="https://www.instagram.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Instagram-constobidullah-red?style=for-the-badge&logo=instagram"></a>
+
+<a href="https://www.facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Facebook-constobidullah-red?style=for-the-badge&logo=facebook"></a>
+
+<a href="https://m.me/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Messanger-constobidullah-red?style=for-the-badge&logo=messanger"></a>
+
+<a href="https://constobidullah.showwcase.com/" target="_blank"><img src="https://img.shields.io/badge/Showwcase-constobidullah-red?style=for-the-badge&logo=showwcase"></a>
+
+<a href="https://about.me/constobidullah/" target="_blank"><img src="https://img.shields.io/badge/About-constobidullah-red?style=for-the-badge&logo=about"></a>
+
+<a href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
+</p>
+
 
 
 
