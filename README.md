@@ -34,11 +34,7 @@
 
 <a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=a855f7&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
-
-<a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=a855f7&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=a855f7&currStreakLabel=ffffff&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="http://www.github.com/constobidullah"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=constobidullah&bg_color=22272e&color=a855f7&line=64748b&point=a855f7&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
 
 ## Reach Me Out   
 <div align="center">
