@@ -34,6 +34,7 @@
   <a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constobidullah&langs_count=10&title_color=ffffff&text_color=a855f7&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
+<h2 align="center">MY GITHUB STARS</h2>
 <p align="center">
   <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=a855f7&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
   
