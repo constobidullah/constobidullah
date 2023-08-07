@@ -9,8 +9,6 @@
 - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
-- I love Coffee
--  I’m currently working on Frontend Development
 - I’m currently learning JavaScript
 - I’m looking to collaborate on Open Source
 - I’m looking for help with html/css/js, Frontend development
