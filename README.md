@@ -16,4 +16,4 @@
 - Ask me about anything on **<a href="https://www.instagram.com/constobidullah"> Instagram</a>**
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am too lazy
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=constobidullah&label=Profile%20views&color=0e75b6&style=flat" alt="constobidullah" /> </p>
+<img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
