@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 <img src="https://visitcount.itsvg.in/api?id=constobidullah&label=Profile%20Views&color=12&icon=3&pretty=true" alt="constobidullah" />
 <br> <br>
 
-<img src="https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?size=626&ext=jpg" width="100%">
+<img src="https://media2.giphy.com/media/bAQH7WXKqtIBrPs7sR/200w.webp?cid=ecf05e47ibj9446bksnyxc1wlimzkasw3y5hzkikoujkiydh&ep=v1_gifs_search&rid=200w.webp&ct=g" width="100%">
 
 
 <h3 align="center">Skill Set</h3>
