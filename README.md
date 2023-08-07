@@ -36,7 +36,7 @@
 
 <h2 align="center">MY GITHUB STARS</h2>
 <p align="center">
-  <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=#8f94fb&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
+  <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=8f94fb&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
 
   </p>
 
