@@ -25,7 +25,8 @@ src="https://img.shields.io/github/followers/constobidullah?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for-the-badge&color=ffffff&labelColor=312e81"
 /></a>
 
-[![](https://visitcount.itsvg.in/api?id=constobidullah&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=constobidullah&icon=2&color=6)](https://visitcount.itsvg.in)
+
 <br> <br>
 
 <img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg" width="100%">
