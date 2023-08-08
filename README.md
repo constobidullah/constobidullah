@@ -72,15 +72,6 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 </p>
 
 
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=constobidullah&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
-</p>
-
-
-
-
 ## 🌐 Reach Me Out :
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah) <br> <br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah)
