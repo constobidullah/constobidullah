@@ -11,7 +11,7 @@
 - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
-- I’m currently learning JavaScript
+- I’m currently learning <li> JavaScript </li>
 - I’m looking to collaborate on Open Source
 - I’m looking for help with html/css/js, Frontend development
 - Ask me about anything on **JavaScript, React, TailwindCSS**
