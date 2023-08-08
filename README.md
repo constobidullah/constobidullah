@@ -1,6 +1,3 @@
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafiz-sakib&theme=github_dark"/>
-</p>
 
 <img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
@@ -47,6 +44,11 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 </p>
 
 <h2 align="center">MY GITHUB STARS</h2>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=constobidullah&theme=github_dark"/>
+</p>
+
 <p align="center">
  <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
 
