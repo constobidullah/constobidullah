@@ -1,13 +1,4 @@
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/constobidullah) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/constobidullah) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/constobidullah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/constobidullah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@constobidullah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/constobidullah) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/constobidullah) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/constobidullah) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/constobidullah) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah) 
-
-
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 <img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
@@ -88,39 +79,8 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 
 
 
-<h2 align="center"> Reach Me Out</h2>  
-
-<div align="center" style="width= 200px">
-  
-  <a href="https://codepen.io/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Codepen-constobidullah-green?style=for-the-badge&logo=codepen"></a>
-
-<a href="https://stackoverflow.com/users/19934308/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-constobidullah-red?style=for-the-badge&logo=stackoverflow"></a>
-
-<a href="https://facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/FaceBook-constobidullah-purple?style=for-the-badge&logo=facebook"></a>
-
-
-<a href="https://twitter.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-constobidullah-blue?style=for-the-badge&logo=twitter&bg_color=ffffff"></a>
-
-<a href="https://dev.to/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Dev-constobidullah-blue?style=for-the-badge&logo=dev"></a>
-
-<a href="https://www.freecodecamp.org/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Freecodecamp-constobidullah-purple?style=for-the-badge&logo=freecodecamp"></a>
-
-<a href="https://www.pinterest.com/constobidullah/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-constobidullah-blue?style=for-the-badge&logo=pinterest"></a>
-
-<a href="https://medium.com/@constobidullah" target="_blank"><img src="https://img.shields.io/badge/Medium-constobidullah-blue?style=for-the-badge&logo=medium"></a>
-
-<a href="https://www.instagram.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Instagram-constobidullah-red?style=for-the-badge&logo=instagram"></a>
-
-<a href="https://www.facebook.com/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Facebook-constobidullah-red?style=for-the-badge&logo=facebook"></a>
-
-<a href="https://m.me/constobidullah" target="_blank"><img src="https://img.shields.io/badge/Messanger-constobidullah-red?style=for-the-badge&logo=messanger"></a>
-
-<a href="https://constobidullah.showwcase.com/" target="_blank"><img src="https://img.shields.io/badge/Showwcase-constobidullah-red?style=for-the-badge&logo=showwcase"></a>
-
-<a href="https://about.me/constobidullah/" target="_blank"><img src="https://img.shields.io/badge/About-constobidullah-red?style=for-the-badge&logo=about"></a>
-
-<a width="200px" href="mailto:obidullahbinmasud124@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-obidullahbinmasud124@gmail.com-teal?style=for-the-badge&logo=gmail"></a>
-</div>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/constobidullah) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/constobidullah) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/constobidullah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/constobidullah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@constobidullah) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/constobidullah) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/constobidullah) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/constobidullah) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/constobidullah) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah) 
 
 
 <img src='https://svgshare.com/i/tFo.svg' title='' />
