@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 
 <br> <br>
 
-<img src="https://img.freepik.com/free-vector/coding-workshop-concept-illustration_114360-8192.jpg?w=740&t=st=1691509011~exp=1691509611~hmac=21e68367963469ca158e2ca276086d6d4b380c4cc6e40a9e869f01106839b8d2" width="100%">
+<img src="https://wallpaperaccess.com/thumb/2109958.jpg" width="100%">
 
 
 # 💻 Tech Stack 
