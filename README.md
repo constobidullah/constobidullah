@@ -74,6 +74,13 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 </p>
 
 
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=constobidullah&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+</p>
+
+
 
 
 <h2 align="center"> Reach Me Out</h2>  
