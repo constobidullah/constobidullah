@@ -18,6 +18,13 @@
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am Food Lover
 
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=constobidullah&theme=react-dark&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+</p>
+
+
 <a href="https://www.github.com/constobidullah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/constobidullah?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
 
