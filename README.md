@@ -11,12 +11,12 @@
 - I'm Available for Any Type of Work in Frontend Web development (Freelance / Remote / Contact ) 
 - My Hobby:- Coding, Traveling, Listening, Writing, Eating.
 - Sometimes, I want to start a Small Business Industry
-- I’m currently learning <li> JavaScript </li>
+- I’m currently learning JavaScript & Design. 
 - I’m looking to collaborate on Open Source
 - I’m looking for help with html/css/js, Frontend development
 - Ask me about anything on **JavaScript, React, TailwindCSS**
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
-- Fun fact I am too lazy
+- Fun fact I am Food Lover
 
 <a href="https://www.github.com/constobidullah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/constobidullah?logo=github&style=for-the-badge&color=ffffff&labelColor=312e81" /></a>
