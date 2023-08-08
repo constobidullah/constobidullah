@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 
 <br> <br>
 
-<img src="https://wallpaperaccess.com/thumb/2109958.jpg" width="100%" height="500px">
+<img src="https://t4.ftcdn.net/jpg/05/35/33/85/240_F_535338549_qe3VRltGyZDBNk1MzbS5y99toBybZ0l6.jpg" width="100%">
 
 
 # 💻 Tech Stack 
