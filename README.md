@@ -14,7 +14,7 @@
 - I’m currently learning JavaScript
 - I’m looking to collaborate on Open Source
 - I’m looking for help with html/css/js, Frontend development
-- Ask me about anything on **<a href="https://www.instagram.com/constobidullah"> Instagram</a>**
+- Ask me about anything on **JavaScript, React, TailwindCSS**
 - How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am too lazy
 
