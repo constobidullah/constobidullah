@@ -15,7 +15,7 @@
 - I’m looking to collaborate on Open Source
 - I’m looking for help with html/css/js, Frontend development
 - Ask me about anything on **JavaScript, React, TailwindCSS**
-- How to reach me? No Problem. Email me: **obidullahbinmasud124@gmail.com**
+- How to reach me?Email me: **obidullahbinmasud124@gmail.com**
 - Fun fact I am Food Lover
 
 <p align="center">
