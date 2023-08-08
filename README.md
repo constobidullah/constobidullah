@@ -41,8 +41,6 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 
 <p align="center">
   <a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constobidullah&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-  <a href="https://github.com/hafiz-sakib/github-readme-stats"><img alt="hafiz-sakib's Top Languages" src="https://readme-stats.clckblog.space/api/top-langs/?username=hafiz-sakib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <h2 align="center">MY GITHUB STARS</h2>
