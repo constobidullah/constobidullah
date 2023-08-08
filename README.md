@@ -67,7 +67,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 </p>
 
 <p align="center">
-              <img src="https://github-profile-trophy.vercel.app/?username=constobidullah&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+    <img src="https://github-profile-trophy.vercel.app/?username=constobidullah&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 
 
