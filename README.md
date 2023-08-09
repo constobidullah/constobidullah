@@ -64,15 +64,12 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 <a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=ffffff&background=312e81&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
-
-
-
 <p align="center">
-            <img src="https://metrics.lecoq.io/constobidullah?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=constobidullah&theme=github_dark&utcOffset=8"/>
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=constobidullah&theme=github_dark&utcOffset=8"/>
+            <img src="https://metrics.lecoq.io/constobidullah?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
 </p>
 
 <p align="center">
