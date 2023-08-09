@@ -101,7 +101,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/constobidullah) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@constobidullah) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/constobidullah) <br> <br>
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/constobidullah) 
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23B92B27.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/constobidullah) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/obmrafi124) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah)  <br> <br>
  
