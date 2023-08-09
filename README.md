@@ -84,8 +84,12 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 ## Daily Dev Card
 <p align="center"> 
  <a href="https://app.daily.dev/constobidullah"><img src="https://api.daily.dev/devcards/9df424382041423db3f5053a7922ac09.png?r=xe2" width="50%" alt="Obidullah's Dev Card"/></a>
+<br>
+ <br>
 
-## 🌐 Reach Me Out :
+ <h2 align="center">🌐 Reach Me Out :</h2>
+<div align="center">
+ 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah) <br> <br>
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/constobidullah) <br> <br> 
@@ -98,6 +102,8 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/constobidullah) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/obmrafi124) <br> <br>
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah) 
+ 
+</div>
 
 </p>
 
