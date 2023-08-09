@@ -97,6 +97,12 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah) 
 
 
+<p align="center"> 
+ ## My profile at a glance
+ <a href="https://app.daily.dev/constobidullah"><img src="https://api.daily.dev/devcards/eb2720ee02934b988712ddc91ae1f197.png?r=6bq" width="400" alt="Rabbi Islam Rony's Dev Card"/></a>
+</p>
+
+
 
 <img src='https://svgshare.com/i/tFo.svg' title='' />
 
