@@ -38,6 +38,9 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 
 <img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
 
+<br> 
+<br>
+
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 <br>
 <br> 
@@ -48,6 +51,8 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 <p align="left">
   <a href="https://github.com/constobidullah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=constobidullah&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
+
+<br> <br>
 
 <h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">MY GITHUB STARS</h2>
 
