@@ -56,16 +56,16 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 </p>
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=constobidullah&theme=github_dark&utcOffset=8"/>
+</p>
+
+<p align="center">
  <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
 
   </p>
 
 <p align="center">
 <a href="http://www.github.com/constobidullah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=constobidullah&stroke=ffffff&background=312e81&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=constobidullah&theme=github_dark&utcOffset=8"/>
 </p>
 
 <p align="center">
