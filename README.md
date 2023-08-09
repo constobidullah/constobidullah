@@ -99,7 +99,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 
  ## Daily Dev Card
 <p align="center"> 
- <a href="https://app.daily.dev/constobidullah"><img src="https://api.daily.dev/devcards/9df424382041423db3f5053a7922ac09.png?r=xe2" width="50%" alt="Obidullah's Dev Card"/></a>
+ <a href="https://app.daily.dev/constobidullah"><img src="https://api.daily.dev/devcards/9df424382041423db3f5053a7922ac09.png?r=xe2" width="80%" alt="Obidullah's Dev Card"/></a>
 </p>
 
 
