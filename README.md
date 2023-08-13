@@ -32,9 +32,11 @@ src="https://img.shields.io/github/followers/constobidullah?logo=github&style=fo
 src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for-the-badge&color=ffffff&labelColor=312e81"
 /></a>
 
-[![](https://visitcount.itsvg.in/api?id=constobidullah&icon=2&color=6)](https://visitcount.itsvg.in)
+<a href="https://github.com/constobidullah">
+    <img src="https://komarev.com/ghpvc/?username=constobidullah" alt = "profile views count" />
+</a>
 
-<br> <br>
+<br>
 
 <img src="https://as2.ftcdn.net/v2/jpg/05/66/10/17/1000_F_566101708_M9LeoEpgBCqEU8kaA2MVP5iQastY2WMH.jpg" width="100%">
 
