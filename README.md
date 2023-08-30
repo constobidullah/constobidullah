@@ -2,8 +2,8 @@
 
 <img src="https://c1.wallpaperflare.com/preview/325/617/134/computer-keyboard-apple-electronics.jpg" width="100%">
 
-<h1 align="center"> Hello visitor👊 My name is Obidullah </h1>
-<h2 align="center">I'm Frontend Web developer & Designer from Bangladesh</h2>
+<h1 align="center"> Hello visitor👊I'm Obidullah </h1>
+<h2 align="center">Frontend Web developer & Designer from Bangladesh</h2>
 
 <br>
 
