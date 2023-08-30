@@ -94,8 +94,8 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
  <h2 align="center">🌐 Reach Me Out :</h2>
 <div align="center">
  
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah) <br> <br>
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah) <br> <br>
 [![Dribble](https://img.shields.io/badge/Dribble-%237289DA.svg?logo=dribble&logoColor=white)](https://dribbble.com/constobidullah) <br> <br> 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/constobidullah) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/constobidullah)
