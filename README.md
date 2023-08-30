@@ -95,17 +95,17 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 <div align="center">
  
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/constobidullah)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah) <br> <br>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19934308/constobidullah)
 [![Dribble](https://img.shields.io/badge/Dribble-%237289DA.svg?logo=dribble&logoColor=white)](https://dribbble.com/constobidullah) <br> <br> 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/constobidullah) 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/constobidullah)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/constobidullah)  <br> <br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/constobidullah) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/constobidullah) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/constobidullah) <br> <br>
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@constobidullah) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/constobidullah) <br> <br>
-[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/constobidullah)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/obmrafi124) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah)  <br> <br>
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/constobidullah)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%231877F2.svg?logo=Linkedin&logoColor=white)](https://linkedin.com/in/constobidullah) <br> <br>
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/obmrafi124)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@constobidullah)
  
 </div>
 
