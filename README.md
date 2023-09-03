@@ -69,7 +69,7 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
 </p>
 
 <p align="center">
- <a href="http://www.github.com/constobidullah"><img src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
+ <a href="http://www.github.com/constobidullah"><img width='100%' src="https://github-readme-stats.vercel.app/api?username=constobidullah&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ffffff&bg_color=312e81&hide_border=true&show_icons=true" alt="constobidullah's GitHub stats" /></a>
 
   </p>
 
