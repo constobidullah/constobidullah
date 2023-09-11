@@ -47,9 +47,9 @@ src="https://img.shields.io/twitter/follow/constobidullah?logo=twitter&style=for
  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technological Foundation</b>
 
  - javaScript
- - javaScript Framework: React JS
+ - javaScript Framework: <i>React JS</i>
  - CSS
- - Css Framework: TailwindCSS, Bootstrap
+ - Css Framework: <i>TailwindCSS, Bootstrap</i>
  - Html5
 
 <p align="left">
